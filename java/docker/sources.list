@@ -1,0 +1,2 @@
+deb http://snapshot.debian.org/archive/debian-security/20220324T185726Z buster/updates main
+deb http://snapshot.debian.org/archive/debian/20220324T155413Z/ buster main
