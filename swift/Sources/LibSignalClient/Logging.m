@@ -66,7 +66,7 @@ static void logMessage(const char *_Nonnull target,
 
 static void flush()
 {
-    OWSLogFlush();
+//    OWSLogFlush();
 }
 
 __attribute__((constructor)) static void initLogging()
